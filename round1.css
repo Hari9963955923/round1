@@ -1,0 +1,115 @@
+b{
+    font-size: 25px;
+    margin-left:10px;
+  }
+  h1{
+    font-size: 50px;
+  }
+  .btn1{
+    width:150px;
+    margin-right:20px;
+    background-color:rgb(147,54,180);
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    border: 1px solid white;
+  }
+  .good{
+    width:70px;
+    height: 70px;
+    background-color: indigo;
+    border-radius: 50%;
+    position: relative;
+    bottom: 30px;
+  }
+  .btn2{
+    width:150px;
+    margin-right:20px;
+    background-color:white;
+    height: 40px;
+    border-radius: 10px;
+    border:2px solid rgb(147,54,180);
+    color: rgb(147,54,180);
+  }
+  .progress{
+    height: 5px;
+  }
+  .col-md-3{
+    padding-top:70px;
+  }
+  .fa-regular{
+    font-size:20px;
+    color:rgb(147,54,180);
+
+  }
+  .y{
+    background-image:url('../BOOTSTRAP/round8.2.png');
+    background-size:cover ;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 20px;
+      }
+  .s{
+    background-image:url('../BOOTSTRAP/round15.png');
+    background-size:cover ;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 20px;
+      }
+    .c{
+      color:black;
+      font-size: 50px;
+      padding-top: 50px;
+      padding-left: 20px;
+    }
+    .d{
+      color: darkslategray;
+      font-size: 20px;
+      margin-left: 20px;
+    }
+    .e{
+      margin-left: 50px;
+      margin-top: 50px;
+    }
+    .card{
+      box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    .text-white{
+      padding-top:50px;
+      font-size: 40px;
+      margin-left:20px;
+    }
+    .u{
+      padding-top:100px;
+      padding-bottom:50px;
+      color: white;
+      font-size: 40px;
+
+    }
+    i{
+      margin-right: 10px;
+    }
+    .fa-brands{
+      font-size: 25px;
+      color:purple;
+    }
+    #may{
+      background-image: url(image/4.jpg);
+      height: 600px;
+      background-size: cover;
+    }
+    #home{
+      background-image: url(image/20.jpeg);
+    }
+    #join{
+      color: white;
+      margin-top: 18px;
+      margin-left: 10px;
+    }
+    .text-secondary{
+      font-size:20px;
+    }
+    .card-img-top{
+      width: 100%;
+      height: 250px;
+    }
